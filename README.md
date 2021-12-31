@@ -22,7 +22,17 @@
 ![5](https://user-images.githubusercontent.com/75953873/147834603-de4749ad-7759-425a-91dd-4fbb2472c1af.png)
 
 
-#### Important:
+#### Instalar / Install
+
+```
+• git clone https://github.com/R3LI4NT/WP-Extractor
+• cd WP-Extractor
+• pip3 install -r requirements.txt
+• python3 wp_Extractor
+```
+
+
+## IMPORTANT:
 
 **`ES:`** No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
 
