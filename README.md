@@ -21,3 +21,9 @@
 ### Joomla file scanner and version
 ![5](https://user-images.githubusercontent.com/75953873/147834603-de4749ad-7759-425a-91dd-4fbb2472c1af.png)
 
+
+#### Important
+
+**`ES:`** No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
+
+**`EN:`**  I am not responsible for the misuse that may be given to this tool, use it for Pentesting or educational purposes.
