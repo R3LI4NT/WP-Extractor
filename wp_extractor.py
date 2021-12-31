@@ -52,7 +52,7 @@ def Scan_themes():
             if 'themes' in themes:
                 pos = themes.index('themes')
                 theme = themes[pos+1]
-                print("\033[1;33mTema en uso :\033[0m " + theme)
+                print("\033[1;33mTheme in use :\033[0m " + theme)
 
 def Scan_plugins():
 	#Pugins by: https://plugins.svn.wordpress.org/
